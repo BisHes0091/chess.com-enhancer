@@ -5,7 +5,7 @@
 <br>
 
 
-https://user-images.githubusercontent.com/71329328/221189107-244544b0-8070-4ee3-973f-c4c9bfa15067.mp4
+
 
 
 <h1>How to install:</h1>
